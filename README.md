@@ -1,6 +1,6 @@
 # Here are 10 important questions from each chapter based on your syllabus:
 
---
+----
 
 # 1. **Mathematical Methods**
    ## (a) **Vector Algebra**:
@@ -18,7 +18,7 @@
    ### 9. Describe Stokes’ theorem and its applications in vector analysis.
    ### 10. Solve an example of a line integral and discuss its relevance to work done by a force.
 
---
+---
 
 # 2. **Laws of Motion**
    ### 1. Explain Newton’s three laws of motion with real-life examples.
@@ -32,7 +32,7 @@
    ### 9. Describe the concept of constrained motion and provide an example.
    ### 10. Discuss the motion of a system of particles with internal and external forces.
 
---
+---
 
 # 3. **Work and Energy**
    ### 1. State and explain the work-energy theorem with its derivation.
@@ -46,7 +46,7 @@
    ### 9. Derive an expression for work done in a gravitational field.
    ### 10. How does potential energy relate to the stability of a system?
 
---
+---
 
 # 4. **Gravitation**
 
@@ -61,7 +61,7 @@
    ### 9. How does areal velocity remain constant in planetary motion? Provide a derivation.
    ### 10. Calculate the gravitational force between two bodies and solve a related problem.
 
---
+---
 
 # 5. **Rotational Motion**
 
@@ -76,7 +76,7 @@
    ### 9. Explain the physical meaning of moment of inertia and its role in rotational motion.
    ### 10. Solve a problem on the calculation of the moment of inertia for a given object.
 
---
+---
 
 # 6. **Elasticity**
 
@@ -94,7 +94,7 @@
    ### 9. Explain the concept of strain energy and its significance in elastic deformations.
    ### 10. Compare elasticity in liquids and gases and discuss their practical applications.
 
---
+---
 
 # 7. **Surface Tension**
    ### 1. Define surface tension and explain synclastic and anticlastic surfaces.
@@ -108,7 +108,7 @@
    ### 9. Discuss how detergents affect the surface tension of water.
    ### 10. Solve a numerical example involving surface tension and capillary rise.
 
---
+---
 
 # 8. **Viscosity**
    ### 1. Explain Newton’s law of viscosity and its applications in fluid dynamics.
