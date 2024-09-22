@@ -5,10 +5,25 @@
 # 1. **Mathematical Methods**
    ## (a) **Vector Algebra**:
    ### 1. Define scalar and vector products and explain their physical significance.
-   ### 2. How can a vector be represented in terms of its basis? Give an example.
-   ### 3. Explain how to add two vectors geometrically and analytically.
+   Ans- ### Scalar Product (Dot Product):
+- Formula: \(\mathbf{A} \cdot \mathbf{B} = |\mathbf{A}| |\mathbf{B}| \cos \theta\)
+- Result: Scalar.
+- Physical Significance: Used to calculate work, and projects one vector onto another.
+
+### Vector Product (Cross Product):
+- Formula: \(\mathbf{A} \times \mathbf{B} = |\mathbf{A}| |\mathbf{B}| \sin \theta \, \hat{n}\)
+- Result: Vector.
+- Physical Significance: Used to calculate torque and angular momentum, giving a vector perpendicular to the plane of the two vectors.
+
    ### 4. What is the significance of a unit vector? Provide examples.
-   ### 5. Explain how to multiply a vector by a scalar and its impact on direction and magnitude.
+   Ans- A unit vector has a magnitude of one and indicates direction only. Its significance includes:
+
+1. **Direction Representation**: It helps express directions without scaling, such as \(\hat{i}\), \(\hat{j}\), and \(\hat{k}\) in 3D space.
+2. **Normalization**: Any vector can be converted to a unit vector by dividing by its magnitude, allowing for consistent direction representation.
+
+**Examples**:
+- In 2D, the unit vector \(\hat{i} = (1, 0)\) points along the x-axis.
+- In 3D, \(\hat{n} = \frac{\mathbf{A}}{|\mathbf{A}|}\) normalizes vector \(\mathbf{A}\) to find its direction.
 
    
    ## (b) **Vector Analysis**:
