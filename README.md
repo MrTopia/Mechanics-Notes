@@ -1,22 +1,22 @@
 # Here are 10 important questions from each chapter based on your syllabus:
 
-### 1. **Mathematical Methods**
-   (a) **Vector Algebra**:
+# 1. **Mathematical Methods**
+   ## (a) **Vector Algebra**:
    ### 1. Define scalar and vector products and explain their physical significance.
    ### 2. How can a vector be represented in terms of its basis? Give an example.
    ### 3. Explain how to add two vectors geometrically and analytically.
    ### 4. What is the significance of a unit vector? Provide examples.
    ### 5. Explain how to multiply a vector by a scalar and its impact on direction and magnitude.
    
-   (b) **Vector Analysis**:
+   ## (b) **Vector Analysis**:
    ### 6. Define and derive the gradient of a scalar field.
    ### 7. Explain divergence and curl of a vector field and their physical meanings.
    ### 8. State and explain Gauss’s divergence theorem.
    ### 9. Describe Stokes’ theorem and its applications in vector analysis.
    ### 10. Solve an example of a line integral and discuss its relevance to work done by a force.
 
-### 2. **Laws of Motion**
-   1. Explain Newton’s three laws of motion with real-life examples.
+# 2. **Laws of Motion**
+   ### 1. Explain Newton’s three laws of motion with real-life examples.
    ### 2. What are inertial and non-inertial frames of reference? Provide examples.
    ### 3. Define the center of mass of a system of particles. Derive its expression.
    ### 4. How does conservation of linear momentum apply to collisions? Explain with examples.
@@ -27,7 +27,7 @@
    ### 9. Describe the concept of constrained motion and provide an example.
    ### 10. Discuss the motion of a system of particles with internal and external forces.
 
-### 3. **Work and Energy**
+# 3. **Work and Energy**
    ### 1. State and explain the work-energy theorem with its derivation.
    ### 2. What is a conservative force? Give an example and its properties.
    ### 3. Define potential energy and derive the expression for gravitational potential energy.
@@ -39,7 +39,7 @@
    ### 9. Derive an expression for work done in a gravitational field.
    ### 10. How does potential energy relate to the stability of a system?
 
-### 4. **Gravitation**
+# 4. **Gravitation**
    ### 1. Derive the equation of motion of a particle in a central force field.
    ### 2. What is the significance of angular momentum in a central force field?
    ### 3. State Kepler’s laws of planetary motion and explain their significance.
@@ -51,7 +51,7 @@
    ### 9. How does areal velocity remain constant in planetary motion? Provide a derivation.
    ### 10. Calculate the gravitational force between two bodies and solve a related problem.
 
-### 5. **Rotational Motion**
+# 5. **Rotational Motion**
    ### 1. Define angular velocity and derive its relation to linear velocity.
    ### 2. Explain the concept of angular momentum and how it is conserved in isolated systems.
    ### 3. What is the moment of inertia? Derive its expression for a solid sphere.
@@ -63,7 +63,7 @@
    ### 9. Explain the physical meaning of moment of inertia and its role in rotational motion.
    ### 10. Solve a problem on the calculation of the moment of inertia for a given object.
 
-### 6. **Elasticity**
+# 6. **Elasticity**
    (a) **Hooke’s Law**:
    ### 1. Explain Hooke’s law and discuss the stress-strain diagram.
    ### 2. What are elastic constants, and how are they related to each other?
@@ -78,7 +78,7 @@
    ### 9. Explain the concept of strain energy and its significance in elastic deformations.
    ### 10. Compare elasticity in liquids and gases and discuss their practical applications.
 
-### 7. **Surface Tension**
+# 7. **Surface Tension**
    ### 1. Define surface tension and explain synclastic and anticlastic surfaces.
    ### 2. Derive the expression for excess pressure inside a spherical drop.
    ### 3. Solve a numerical problem related to the pressure inside a soap bubble.
@@ -90,7 +90,7 @@
    ### 9. Discuss how detergents affect the surface tension of water.
    ### 10. Solve a numerical example involving surface tension and capillary rise.
 
-### 8. **Viscosity**
+# 8. **Viscosity**
    ### 1. Explain Newton’s law of viscosity and its applications in fluid dynamics.
    ### 2. Derive Poiseuille’s formula for the rate of flow of liquid in a capillary tube.
    ### 3. Solve a problem using Poiseuille’s law for a given liquid in a narrow tube.
